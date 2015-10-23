@@ -48,7 +48,6 @@ public class ContactMainView extends VerticalLayout implements ComponentContaine
 	
 	public ContactMainView() {
 		setSizeFull();
-		setMargin(true);
 		buildMainArea();
     }
 	

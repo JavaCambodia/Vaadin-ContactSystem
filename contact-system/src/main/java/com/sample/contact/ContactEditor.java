@@ -39,7 +39,7 @@ public class ContactEditor extends Window implements ClickListener {
     public ContactEditor(Item personItem) {
     	setModal(true);
     	setWidth(650, Unit.PIXELS);
-		setHeight(470, Unit.PIXELS);
+		setHeight(530, Unit.PIXELS);
 		
     	this.personItem = personItem;
         
